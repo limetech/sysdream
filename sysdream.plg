@@ -35,7 +35,7 @@ rm -rf /usr/local/emhttp/plugins/&name;/
 <!-- README FILE -->
 <FILE Name="/usr/local/emhttp/plugins/&name;/README.md" Mode="0644">
 <INLINE>
-**Dynamix Patch 2020**
+**sysdream mitigation**
 
 Patches the *template.php* file to address reported vulnerabilities in Unraid 6.6 and 6.7 versions.
 </INLINE>
