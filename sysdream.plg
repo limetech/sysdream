@@ -4,7 +4,7 @@
 <!ENTITY name      "sysdream">
 <!ENTITY author    "LimeTech">
 <!ENTITY version   "2020.02.05">
-<!ENTITY pluginURL "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/&name;.plg">
+<!ENTITY pluginURL "https://raw.githubusercontent.com/limetech/sysdream/master/sysdream.plg">
 ]>
 
 <PLUGIN name="&name;" author="&author;" version="&version;" pluginURL="&pluginURL;" min="6.6.0" max="6.7.2">
